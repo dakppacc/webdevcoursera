@@ -7,6 +7,12 @@
 body {
 	padding: 10px;
 }
+
+body > h1 {
+	text-align: center;
+	padding: 10px;
+}
+
 .container {
 	position: relative;
 	padding: 10px;
@@ -27,7 +33,7 @@ p {
 	background-color: yellow;
 	color: black;
 	text-align: center;
-	padding-top: 7px;
+	padding-top: 6px;
 	position: absolute;
 	top: 10px;
 	right: 10px;
